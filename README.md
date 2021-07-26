@@ -25,4 +25,12 @@ Nela o usuário informará seu email e sua senha para entrar no app.
 O Botão de Definir senha tem apenas a funcionalidade de cadastrar uma senha para um usuário já registrado
 pelo diretor no aplicativo.
 
+<img src="./images/faq_login.png" alt="login" width="350"/>
+
+### Sobre o EasyFlux
+Ao clicar no botão Sobre o EasyFlux o usuário é redirecionado para a tela ao lado. Nesta tela, as informações
+do desenvolvedor são exibidas e a localização do escritório da empresa.
+
+Abaixo do mapa, o usuário tem acesso ao FAQ do aplicativo e a arquitetura do sistema. Na barra superior, no canto
+direito, há um botão que redireciona para a tela de login.
 
